@@ -43,8 +43,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/durgesh-nagarkar-72177a182/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Durgesh%20Nagarkar-0e76a8?style=bold-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/__durgesh__10/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__durgesh__10-grey?style=bold-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/durgesh-nagarkar-72177a182/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Durgesh%20Nagarkar-0077B5?style=bold-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/__durgesh__10/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__durgesh__10-E4405F?style=bold-square&logo=instagram"></a>
 <a href="mailto:nagarkardurgesh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nagarkardurgesh@gmail.com-grey?style=flat-square&logo=gmail"></a>
 </p>
 
