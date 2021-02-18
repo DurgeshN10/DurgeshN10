@@ -10,7 +10,7 @@
 - ✍️ &nbsp; Pursuing Full Stack developement & UX designing.
 - ✉️ &nbsp;You can shoot me an email at nagarkardurgesh@gmail.com! I'll try to respond as soon as I can.
 
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/DurgeshN10/DurgeshN10/master/assets/Night-Coding.gif" align="right"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
