@@ -10,6 +10,8 @@
 - ✍️ &nbsp; Pursuing Full Stack developement & UX designing.
 - ✉️ &nbsp;You can shoot me an email at nagarkardurgesh@gmail.com! I'll try to respond as soon as I can.
 
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 
