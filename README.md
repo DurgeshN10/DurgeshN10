@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Worked As Trainee Web Devloper at PRDXN India, thane.
-- 🌱 &nbsp; Self thought Web Devloper,Looking for good opportunity.Learning more about web and mobile apps.
+- 💼 &nbsp; Worked As Trainee Web Developer at PRDXN India, thane.
+- 🌱 &nbsp; Self thought Web Developer,Looking for good opportunity.Learning more about web and mobile apps.
 - ✍️ &nbsp; Pursuing Full Stack developement & UX designing.
 - ✉️ &nbsp;You can shoot me an email at nagarkardurgesh@gmail.com! I'll try to respond as soon as I can.
 
