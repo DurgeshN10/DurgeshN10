@@ -10,9 +10,6 @@
 - ✍️ &nbsp; Pursuing Full Stack developement & UX designing.
 - ✉️ &nbsp;You can shoot me an email at nagarkardurgesh@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="coding-freak" src="https://raw.githubusercontent.com/DurgeshN10/DurgeshN10/master/assets/coding-freak.gif" align="right"/>
-<br/>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 
@@ -40,7 +37,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DurgeshN10&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br/>
 
+<img alt="coding-freak" src="https://raw.githubusercontent.com/DurgeshN10/DurgeshN10/master/assets/coding-freak.gif" align="right"/>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
